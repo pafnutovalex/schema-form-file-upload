@@ -1,8 +1,6 @@
 {
   "name": "schema-form-file-upload",
-  "main": [
-    "schema-form-file-upload.min.js"
-  ],
+  "main": "schema-form-file-upload.js",
   "version": "0.1.0",
   "authors": [
     "Cheng Zhu",
